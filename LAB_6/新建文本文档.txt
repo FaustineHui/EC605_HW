@@ -1,0 +1,3 @@
+cd /Users/wangmengxi/Documents/mercy/ec605/lab/lab6 
+./hello | cowsay > Lab6_cowsaid
+history -w Lab6_commands
